@@ -7,20 +7,20 @@ via Giphy
 
 ---
 
-**Chapter 2**
+**Chapter 2** ✅
 - Print the numbers from 1 to 10 recursively.
 
-**Chapter 3**
+**Chapter 3** ✅
 - Given a list of words in alphabetical order, write a function that performs a binary search for a word and returns whether it is in the list.
 
 **Chapter 4**
 - Research and write a sorting algorithm that is not a bubble sort, insertion sort, or merge sort.
 
-**Chapter 5**
+**Chapter 5** ✅
 - Use a list comprehension to return a list of all the words in the following list that have more than four characters: <br>
 `["selftaught", "code", "sit", "eat", "programming", "dinner", "one", "two", "coding", "a", "tech"]`
 
-**Chapter 6**
+**Chapter 6** ✅
 - Research and write another way to find prime numbers.
 
 **Chapter 9**
