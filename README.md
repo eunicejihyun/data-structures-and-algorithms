@@ -2,7 +2,8 @@ My attempt at solving the chapter challenges from the book, ***The Self-Taught C
 
 Challenges are included below.
 
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV4Zm9zbHhmMGdtMXJleWMyZWxrMG5ucHRicndyM3R6eXltbHhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp)
+via Giphy
 
 ---
 
