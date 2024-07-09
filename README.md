@@ -13,7 +13,7 @@ via Giphy
 **Chapter 3** ✅
 - Given a list of words in alphabetical order, write a function that performs a binary search for a word and returns whether it is in the list.
 
-**Chapter 4**
+**Chapter 4** ✅
 - Research and write a sorting algorithm that is not a bubble sort, insertion sort, or merge sort.
 
 **Chapter 5** ✅
@@ -23,16 +23,16 @@ via Giphy
 **Chapter 6** ✅
 - Research and write another way to find prime numbers.
 
-**Chapter 9**
+**Chapter 9** ✅
 - Given an array called `an_array` of non-negative integers, return an array consisting of all the even elements of `an_array`, followed by all the odd elements of `an_array`
 
-**Chapter 10**
-- Create a linked list taht holds the numbers from 1 to 100. Then, print every node in your list.
+**Chapter 10** ✅
+- Create a linked list that holds the numbers from 1 to 100. Then, print every node in your list.
 - Create two linked lists: one that contains a cycle and one that doesn't. Make sure each one has a `detect_cycle` method to see if it has a cycle. Call `detect_cycle` on each list.
 
-**Chapter 11**
+**Chapter 11** ✅
 - Modify your balanced string program to check whether both parentheses, (), and brackets, {}, are balanced in a string.
-- Design a max stack taht allows you to push, pop, and keep track of your stack's biggest number in O(1) time.
+- Design a max stack that allows you to push, pop, and keep track of your stack's biggest number in O(1) time.
 
 **Chapter 12**
 - Implement a queue using two stacks, but make enqueueing O(1)
