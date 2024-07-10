@@ -34,11 +34,11 @@ via Giphy
 - Modify your balanced string program to check whether both parentheses, (), and brackets, {}, are balanced in a string.
 - Design a max stack that allows you to push, pop, and keep track of your stack's biggest number in O(1) time.
 
-**Chapter 12**
+**Chapter 12** 
 - Implement a queue using two stacks, but make enqueueing O(1)
 
-**Chapter 13**
-- Given a string, remove all duplicates words. For example, given the string `"I am a self-taught programmer looking for a job as a programmer."`, your function should return `"I am a self-taught looking for a job as a."`
+**Chapter 13** ✅
+- Given a string, remove all duplicate words. For example, given the string `"I am a self-taught programmer looking for a job as a programmer."`, your function should return `"I am a self-taught looking for a job as a."`
 
 **Chapter 14**
 - Add a method called `has_leaf_nodes` to your binary tree code. The method should return `True` if the tree has no leaf nodes and `False` if it does not.
