@@ -3,7 +3,17 @@
 import heapq
 
 
-def dijkstra(graph, starting_vertex, ending_vertex):
+def dijkstra(graph: dict, starting_vertex: str, ending_vertex: str) -> str:
+    """Using the starter code for Dijkstra's algorithm from the book, it was modified to return the most efficient path through the graph as opposed to returning a dictionary with distances
+
+    Args:
+        graph (dict): a graph represented by a nested python dictionary
+        starting_vertex (str): starting point from which to find the most efficient route to the ending vertex
+        ending_vertex (str): ending point to which to find the most efficient route from the starting vertex
+
+    Returns:
+        str: the most efficient path through the graph
+    """
     distances = {
         vertex: {"distance": float("infinity"), "path": ""} for vertex in graph
     }

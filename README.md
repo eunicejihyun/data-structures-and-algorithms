@@ -47,5 +47,5 @@ via Giphy
 **Chapter 15** ✅
 - Write a function that can accept a binary tree as a parameter and return `True` if it is a min heap and `False` if not.
 
-**Chapter 16**
+**Chapter 16** ✅
 - Modify Dijkstra's algorithm so it only returns the path from a starting vertex to another vertex you pass in.
